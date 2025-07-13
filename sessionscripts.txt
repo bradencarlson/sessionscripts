@@ -1,0 +1,14 @@
+*sessionscripts.txt*  Load specific scripts upon opening session files.
+
+                                                               *sessionscripts*
+
+Vim session files do not save any functions or scripts that you have created or
+sourced while editing. This plugin allows you to place scripts in a directory
+(<project-dir>/vim/scripts, where <project-dir> is the location of the session
+file) to be loaded automatically when the session file is loaded. 
+
+Mappings: 
+    This plugin provides no mappings. 
+
+Commands: 
+    This plugin provides no commands. 
